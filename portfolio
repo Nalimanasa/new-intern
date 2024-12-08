@@ -1,0 +1,386 @@
+#new intern
+repository
+<html>
+    <head>
+       <!-- <link rel="stylesheet" href="port.css">-->
+    </head>
+    <style>
+        body{
+    background: none;
+    background-color:no-repeat;
+    background-size:auto; 
+}
+h1{
+    float:left;
+    font-size:30px;
+    font-family:cursive;
+    color:black;
+    background-color:white;
+    padding:12px;
+    margin:1px;
+    padding-left:59px;
+}
+nav{
+    display:flex;
+    color:black;
+    text-align:right;
+    background-color:whitesmoke;
+    margin:5px;
+    padding:22px 20px;
+}
+ul{
+    display:flex;
+    padding:-1px 200px;
+    margin:0px;
+}
+li{
+    padding:0px 65px;
+    margin:-9px;
+}
+.container1{
+    padding:0px 0px;
+    margin:0px;
+    position:relativel
+
+}
+h2{
+    float:left;
+    color:black;
+    background-color:white;
+    padding:22px 0px;
+    margin:62px;
+    margin-bottom:0px;
+    padding-right:270px;
+    padding-left:114px;
+}
+p{
+    padding:198px 64px;
+    padding-left:154px;
+    font-size:large;
+    margin:0px;
+    background-color:white;
+    color:black; 
+}
+.container2{
+    position:absolute;
+    margin:-33px;
+    margin-left:17px;
+    padding-left:950px;
+    padding-right:24px;
+    margin-top:-600px;
+}
+img{
+    padding:13px 13px;
+    margin:0px;
+}
+  a{
+    margin:9px;
+    border:solid;
+    padding:6px 7px;
+    margin-left:0px;
+    margin-bottom:0px;
+    background-color:blue;    padding-left:0px;
+    color:white;
+    border-color:black;
+}
+.container3{
+    padding:0px 0px;
+    margin:0px;
+    position:relative;
+}
+.container4{
+    margin:-478px;
+    padding:0px 0px;
+    margin-top:-430px;
+    margin-bottom:0px;
+    margin-left:521px;
+    padding-left:0px;
+    position:relative;
+
+}
+.container4 h1{
+    padding:75px 141px;
+    margin:0px;
+}
+.container4 p{
+    padding:0px -1px;
+    margin:10px;
+
+}
+.container5{
+    padding:0px 750px;
+    margin:-47px;
+}
+.container6{
+    padding-right:250px;
+    margin:60px ;
+    margin-top:-416px;
+    margin-bottom:0px;
+    position:relative;
+}
+.container6 h1{
+    padding:0px 0px;
+    margin:-28px;
+}
+input {
+    background-color:blue;
+    border-radius:8px;
+}
+.container7{
+padding:86px 0px;
+margin:0px;
+}
+.container7 p{
+    float:left;
+    margin:-350px;
+    margin-top:103px;
+    padding:0px 0px;
+    position:relative;
+    display:flex;
+}
+ .container7 input{ 
+    padding:0px 0px;
+    margin:38px;
+    margin-top:22px;
+    margin-bottom:35px;
+}
+button{
+    padding:14px 0px;
+    margin:191px;
+    padding-top:5px;
+    padding-bottom:0px;
+}
+.container8 h1{
+    padding:0px;
+    margin:0px;
+}
+.container8{
+    padding:0px 0px;
+    margin:200px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.container8 p{
+    padding:0px 26px;
+    margin:0px;
+    padding-right:1000px;
+    margin-top:0px;
+    margin-bottom:0px;
+    display:grid;
+}
+.container8 img{
+    padding:20px 20px;
+    margin:73px;
+}
+.container8 a{
+    padding:12px 34px;
+    margin:-197px;
+    margin-bottom:223px;
+    margin-top:-283px;
+    margin-left:764px;
+    margin-right:584px;
+    text-align:center;
+}
+.container13 img{
+    padding:0px 959px;
+    margin:-60px;
+    margin-top:-311px;
+    margin-bottom:-0px;
+}
+.container9{
+    padding:32px 201px;
+    margin:0px;
+    padding-left:13px;
+    padding-right:291px;
+}
+ h1{
+    padding:0px 36px;
+    margin:33px;
+}
+.container9 h3{
+    padding:86px 0px;
+    margin:0px;
+    padding-left:332px;
+   /* border:solid;
+    border-radius:266px 550px;*/
+}
+.container9 p{
+    padding:0px 365px;
+    margin:-39px;
+    padding-left:371px;
+    padding-right:266px;
+}
+.container9 button{
+    padding: 10px;
+    margin:0px;
+    margin-top:66px;
+    margin-left:337px;
+    margin-right:-265px;
+    margin-bottom:0px;
+    background-color:blueviolet;
+}
+.conatiner10{
+    padding:0px 0px;
+    margin:0px;
+}
+.container10 img{
+    padding:0px 0px;
+    margin:0px;
+}
+.container10 p{
+    padding:114px 0px;
+    margin:0px;
+    padding-left:29px;
+    padding-right:662px;
+    padding-top:0px;
+}
+
+.container11{
+    padding:97px 0px;
+    margin:0px;
+}
+.container11 h1{
+    padding:0px 38px;
+    margin:-40px;
+}
+.container11 p{
+    padding:8px 0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.container12 {
+    margin:674px;
+    margin-top:-331px;
+    margin-bottom:0px;
+    margin-left:600px;
+}
+
+    </style>
+    <body>
+        <div class="container">
+        <h1>port folio</h1>
+        <nav>
+            <ul>
+                <li>skills</li>
+                <li>open source</li>
+                <li>projects</li>
+                <li>achivements</li>
+                <li>Blogs</li>
+                <li>tabs</li>
+                <li>collect me</li>
+            </ul>
+        </nav>
+</div>
+<div class="cotainer1">
+    <h2>Hi all I'm Manasa</h2>
+    <p>Motivated and results-oriented Bachelor of Computer 
+        Applications (BCA) graduate with a solid<br> foundation in 
+        computer science principles and practical programming 
+        skills. Possesses a keen interest<br> in leveraging technology 
+        to solve complex problems and drive innovation. <br>
+        Demonstrated ability to adapt quickly to new technologies 
+        and environments, with a strong commitment to<br> continuous 
+        learning and professional development. Adept at 
+        collaborating with cross-functional teams to <br>deliver highquality 
+        solutions that meet client needs and exceed 
+        expectations. Seeking opportunities to apply <br>academic 
+        knowledge and hands-on experience to contribute <br>
+        effectively to a dynamic organization in the field of software<br>
+        <img src="linkedin.png" height="40" width="40">
+        <img src="google.jpg" height="40" width="40">
+        <img src="twitter.jpg" height="40" width="40">
+        <img src="facebook.jpg" height="40" width="40"><br>
+    <a href="details.html">
+        CONTACT ME
+        </a>
+    <a href="MANASA_RESUME_FRESHER_1-1-compressed-compressed.pdf">SEE MY RESUME</a>
+   </p> </div>
+   <div class="container2">
+        <img src="logo.jpg" height="500" width="600">
+   </div>
+</div>
+<div class="container3">
+    <img src="logo2.jpg" height="400" width="600">
+    </div>
+    <div class="container4">
+    <h1>What I Do</h1>
+    <p>I used to learn all full stack development course by using allow
+        technologys like these in the below<br>
+        <img src="html.png" height="50" width="50">
+        <img src="css.jpg" height="50" width="50">
+        <img src="js.jpg" height="50" width="50">
+        <img src="node js.png" height="50" width="50">
+        <img src="npm.jpg" height="50" width="50">
+        <img src="aws.png" height="50" width="50">
+        <img src="fire.png" height="50" width="50">
+        <img src="python.png" height="50" width="50"><br>
+        * develop hightly interactive frontend/backend/userinterface for your web and mobile application<br>     
+        *progreesive web application in web stacks<br>      
+        *integrated for third party service such as firewal/aws/digital ocean </p>
+         </div>  
+         <div class="container5">
+            <img src="logo3.jpg" height="500" width="600">
+         </div>
+         <div class="container6">
+           <h1>Proficiency</h1><br>
+            <h4>Frontend/design</h4><br>
+            <input type="text" size="50">
+            <h4>Backend</h4><br>
+            <input type="text" size="50">
+            <h4>Programming</h4><br>
+            <input type="text" size="50">
+            </div>
+            <div class="container7">
+                <h1>Open source projects</h1>
+               <p><input   type="checkbox" value="bevy engine github">bevy engine github
+                <input  type ="checkbox" value="spacedrive app">spacesdrive app
+                <input   type="checkbox" value="awesome linux software">awesome linux software
+                <input type="checkbox" value="locate me">locate me 
+        </p><button><a href="https://github.com/topics/college-project">MORE projects
+        </a>   </button> </div>
+        <div class="container8">
+            <h1>ACHIVEMENTS AND CERTIFICATES</h1>
+        <p>       
+            <img src="soft.jpg">           
+                Soft skills are character traits and interpersonal skills<br>
+                 that characterize a person's ability to interact effectively<br>
+                  with others. In the workplace, soft skills are considered to be<br>
+                   a complement to hard skills, which refer to a person's knowledge and <br>
+                   occupational skills. Psychologists may use the term "soft skills           
+                   <a href="c:\Users\Dell\Downloads\Adobe Scan Nov 21, 2024.pdf">
+                    click me</a>
+                   <div class="container13">
+                                    <img src="hand.jpg" height="90" width="90">          
+</div>
+                </p>
+        </div>
+        <h1>TALKS</h1>
+        <div class="container9">
+        
+            <h3>BUILD ACTIONS FOR <br>GOOGLE ASSISTANT</h3>
+            <P>codelab at gif:devi karachi 2019</P>
+            <button>slides</button>
+            <button>event</button>
+        </div> 
+        <div class="container10">
+            <h1>PODCAST <img src="mike.jpg" height="50" width="50"></h1>
+          <!--  <img src="mike.jpg" height="50" width="50">-->            <p> I love to talk about myself and technology</p>
+        </div> 
+        <div class="container11">
+            <h1>REACH OUT ME</h1>
+            <p>software developer/open source contributor/full stack developer<br>
+               open for opportunities:yes<br>
+               <img src="linkedin.png" height="40" width="40">
+               <img src="google.jpg" height="40" width="40">
+               <img src="twitter.jpg" height="40" width="40">
+               <img src="facebook.jpg" height="40" width="40">           
+       </p>
+   </div>
+   <div class="container12">
+    <img src="female.jpg" height="300" width="400">
+   </div>
+           </div>
+    </body>
+    </html>

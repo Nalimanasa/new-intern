@@ -3,7 +3,6 @@ repository
 <html>
     <head>
        <!-- <link rel="stylesheet" href="port.css">-->
-    </head>
     <style>
         body{
     background: none;
@@ -258,6 +257,7 @@ button{
 }
 
     </style>
+</head>
     <body>
         <div class="container">
         <h1>port folio</h1>

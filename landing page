@@ -1,0 +1,201 @@
+new intern 
+repository
+<html>
+    <head>
+        <!-- <link rel="stylesheet"  href="land.css">-->
+         <style>
+        body{
+          background:none;
+          background-repeat:no-repeat;
+          background-size:auto;
+      }
+       div.id{
+          margin: 15px -6px;
+          margin-top:16px;
+          width:302px;
+          height:20px;
+          background-color:white;
+      }
+      h1{
+         float:left; 
+         color:black;   
+         background-color:white;
+         margin:0px;
+         padding-top:0px;
+         
+      }
+      nav{
+          display:grid;
+          color:#000000;
+          text-align:left;
+          background-color:white;
+          margin:4px 0px;
+      }
+      ul{
+          display:flex;
+          margin:-13px -4px;
+          padding:8px 90px;
+          background-color:white;
+          padding-top:8px;
+          padding-bottom:9px;
+      }
+      li{
+          padding:10px 30px;
+          margin-top:10px;
+      }
+      input{
+          display:flex;
+          position:relative;
+      }
+      .container a{
+          position:absolute;
+          display:block;
+          padding:-1px -8px;
+          margin:0px;
+      }
+       /*.type{
+          float: left;
+          display:block;
+          padding:0px 0px;
+          background-color:white;
+          margin:-120px;
+      }*/
+      h2{
+          padding:0px 156px;
+         float:left; 
+         color:black;    
+         margin-bottom:10px;
+         margin-top:167px;
+         background-color:white;
+      }
+      h4{
+          padding:206px 160px;
+          padding-right:408px;
+          margin:0px;
+          margin-top:164px;
+          margin-bottom:-391px;
+          background-color:white;
+          margin-left:auto;
+      }
+       p{
+          padding:210px 311px;
+          padding-left:157px;
+          margin-top:0px;
+          margin:0px;
+          font-size:large;
+          background-color:white;
+          color:black;
+      }
+       button{
+          color:white;
+          background-color:blue;
+          border-style:double;
+          border-color:black;
+          position:relative;
+          font-size:20px;
+          text-align:left;
+          padding-left:0px;
+           margin:-187px 161px;
+      
+      }
+      .container2{
+          position:absolute;
+          padding:14px 200px;
+          margin:8px;
+          margin-left:0px;
+          padding-left:882px;
+          padding-right:0px;
+          margin-top:-7px;
+      }
+       .container1{
+           padding:0px;
+           margin:-110px;
+           margin-left:-37px;
+           padding-left:39px;
+           position:relative;
+       }
+      h3{
+           
+         color:black;   
+         background-color:white;
+         padding:14px 0px;
+         padding-left:20px;
+         padding-right:437px;
+         margin:32px;
+         position:relative;
+      }
+      b{
+          padding:12px 26px;
+          border:solid;
+          color:white;
+          border-color:rgb(88, 13, 26);
+          background-color:rgb(226, 19, 54);
+      }
+      .container1.a{
+          position:relative;
+          padding:34px 5px;
+          margin:0px;
+          display:auto;
+      }
+    </style>
+        </head>
+
+<body>
+    <div class="id">
+        <h1>LANDING PAGE</h1>
+        <nav>
+            <ul>
+                <li>home</li>
+                <li>blog</li>
+                <li>page</li>
+                <li>service</li>
+                <li>portable</li>
+                <li>contact</li>
+            </ul>
+            <label>search</label>
+            <input type="text"size="30">
+        </nav>
+        </div>
+        <div class="container">
+            <a>
+                <img src="users.jpg" height="300" width="1550">
+            </a>
+        </div>
+        <div class="type">
+        <h2>ABOUT US</h2>
+          <h4>15 years,we passionate acheiving better results for our clients</h4>
+          <p>
+            Types
+            There are a number of different types of software companies:
+            
+            There are companies selling available to use commercial off-the-shelf (COTS) products.
+            Many companies provide Software Development services, and have a structure to develop<br>
+             custom software for other companies and businesses.
+            Companies producing specialized commercial off-the-shelf software.
+            Companies providing Software as a Service (SaaS).<br>
+            There are also other types of SaaS products, of companies providing IT infrastructure services<br>
+             and Cloud Computing services.
+            API as a Service, that allows third party developers to interact with a company's software.
+            Companies producing software components.<br>
+            Application Service Provider.
+            Companies producing bespoke software for vertical industries or<br> particular geographical regions.
+            Independent software vendors (ISVs) that build, develop and sell consumer or enterprise<br> software that is consumed by end users.<br></p>
+          <button>
+            READ MORE
+          </button>
+          <div class="container2">
+          <a>
+            <img src="use.jpg" height="500" width="600">
+          </a>
+          </div>
+        </div>
+        <div class="container1">
+            <h3>OUR SERVICES</h3><br>
+                  <b>USER EXPERIENCE</b><b>CREATIVE DESIGN</b> <b>RETINA READY</b><br>  <a>
+             <img src= "user.jpg" height="200" width="200">
+             <img src="design.jpg" height="200" width="200">
+             <img src="retina.jpg" height="200" width="200">
+              </a>
+              </div>
+             </body>
+             </html>
